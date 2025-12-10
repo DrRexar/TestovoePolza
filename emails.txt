@@ -1,0 +1,4 @@
+test@gmail.com
+invalid-email-format
+user@nonexistentdomain123456789.com
+support@google.com
